@@ -1,0 +1,30 @@
+{
+  "name": "daily-coding-problems",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiMA10/Daily-Coding-Problems.git"
+  },
+  "keywords": [],
+  "author": "Santi M.A. <santiagomartinagra@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SantiMA10/Daily-Coding-Problems/issues"
+  },
+  "homepage": "https://github.com/SantiMA10/Daily-Coding-Problems#readme",
+  "devDependencies": {
+    "@types/jest": "^23.1.4",
+    "jest": "^23.3.0",
+    "ts-jest": "^23.0.0",
+    "ts-node": "^7.0.0",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2"
+  }
+}
