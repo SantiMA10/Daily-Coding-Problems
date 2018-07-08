@@ -1,6 +1,6 @@
 import { resolver } from "./resolver";
 
-describe("Day #1", () => {
+describe("Day #2", () => {
     test("if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24].", () => {
         expect(resolver([1, 2, 3, 4, 5])).toEqual([120, 60, 40, 30, 24]);
     });
