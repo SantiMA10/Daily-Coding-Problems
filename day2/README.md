@@ -1,4 +1,4 @@
-# Day #1
+# Day #2
 
 This problem was asked by Uber.
 
