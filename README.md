@@ -12,3 +12,6 @@ README.md // with the problem
 resolver.ts // with the code to solve the problem
 resolver.spect.ts // with the tests
 ```
+
+### VS Code recommended extensions
+- [Go to spec](https://marketplace.visualstudio.com/items?itemName=Lourenci.go-to-spec)
