@@ -1,6 +1,6 @@
 export const resolver = (numbers: number[]): number => {
     const orderNumbers = numbers.filter((n) => n >= 0).sort();
-    let last = orderNumbers.sort()[0];
+    let last = orderNumbers[0];
     let response = null;
 
     orderNumbers.forEach((n) => {
