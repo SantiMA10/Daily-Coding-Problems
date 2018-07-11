@@ -11,4 +11,15 @@ def cons(a, b):
         return f(a, b)
     return pair
 ```
+
+I made my own implementation in TypeScript
+```
+const cons = (a: number, b: number) => {
+    const pair = (f) => {
+        return f(a, b);
+    };
+
+    return pair;
+};
+```
 Implement car and cdr.
